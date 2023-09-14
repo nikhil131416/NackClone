@@ -1,5 +1,5 @@
 # NackClone
- by NIKHILDODTALLE
+ 
  Nack Clone
 Clone of a Natural Nutrition and Supplement company's website named Nack. This project was built using Html, Css, and Javascript. Did not use any frameworks or libraries.
 
